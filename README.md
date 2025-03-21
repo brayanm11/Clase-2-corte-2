@@ -20,7 +20,7 @@ Modelo físico que describe la oscilación de un sistema mecánico compuesto por
 ## 2. Modelado de Sistemas Mecánicos
 El modelado matemático de un sistema mecánico se basa en las leyes de Newton y en los principios de la dinámica. En general, estos sistemas están compuestos por:
 
-Masa (): Representa la inercia del sistema.
+Masa $(m)$: Representa la inercia del sistema.
 
 Resorte (): Modela la elasticidad del sistema según la Ley de Hooke.
 

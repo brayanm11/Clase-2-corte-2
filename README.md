@@ -22,9 +22,13 @@ El modelado matemático de un sistema mecánico se basa en las leyes de Newton y
 
 Masa $(m)$: Representa la inercia del sistema.
 
-Resorte (): Modela la elasticidad del sistema según la Ley de Hooke.
+Resorte $(k)$: Modela la elasticidad del sistema según la Ley de Hooke.
 
-Amortiguador (): Simula la fricción y disipación de energía.
+Amortiguador $(b)$: Simula la fricción y disipación de energía.
+
+2.1. Ecuación del Sistema Masa-Resorte-Amortiguador
+
+Para un sistema compuesto por una masa, un resorte y un amortiguador, la ecuación diferencial se expresa como:
 
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 

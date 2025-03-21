@@ -1,11 +1,30 @@
 # Sistemas Mecánicos
 Los sistemas mecánicos son fundamentales en la ingeniería, ya que permiten analizar y diseñar mecanismos utilizados en diversas industrias. Estos sistemas pueden modelarse mediante ecuaciones diferenciales, las cuales describen su comportamiento dinámico en función de las fuerzas aplicadas y sus propiedades físicas. En esta clase, exploraremos la modelación de sistemas mecánicos, los elementos que los componen y su análisis mediante métodos matemáticos.
-## 1. Subtítulos
-Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
+## 1.  Conceptos Fundamentales
+🔑 Sistema mecánico:
 
-## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
+Conjunto de elementos físicos interconectados que transmiten movimiento y fuerza.
+
+🔑 Ecuación diferencial:
+
+Expresión matemática que describe la relación entre una función y sus derivadas.
+
+🔑 Grado de libertad (DOF):
+
+Número mínimo de coordenadas independientes necesarias para describir el movimiento de un sistema.
+
+🔑 Sistema masa-resorte-amortiguador:
+
+Modelo físico que describe la oscilación de un sistema mecánico compuesto por una masa, un resorte y un amortiguador.
+
+## 2. Modelado de Sistemas Mecánicos
+El modelado matemático de un sistema mecánico se basa en las leyes de Newton y en los principios de la dinámica. En general, estos sistemas están compuestos por:
+
+Masa (): Representa la inercia del sistema.
+
+Resorte (): Modela la elasticidad del sistema según la Ley de Hooke.
+
+Amortiguador (): Simula la fricción y disipación de energía.
 
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 

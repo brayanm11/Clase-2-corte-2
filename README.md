@@ -30,6 +30,8 @@ Amortiguador $(b)$: Simula la fricción y disipación de energía.
 
 Para un sistema compuesto por una masa, un resorte y un amortiguador, la ecuación diferencial se expresa como:
 
+$$m\frac{d^{2}x}{dt^{2}}+b\frac{dx}{dt}+kx=F(t)$$
+
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones

@@ -103,9 +103,7 @@ Para organizar información sobre parámetros de sistemas mecánicos:
 
 Tabla 1. Parámetros de un sistema mecánico.
 
-Tabla 1. Tabla de ejemplo
 
-Cada tabla debe llevar la etiqueta que describa su contenido y numeración consecutiva para todas las tablas
 
 ## 8. Código
 Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:

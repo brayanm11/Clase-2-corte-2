@@ -100,7 +100,7 @@ Para organizar información sobre parámetros de sistemas mecánicos:
 |-----------------------|-------------|------------|
 |          Masa         |     $m$     |    $kg$    |
 |    Amortiguamiento    |     $b$     |   $Ns/m$   |
-|Constante del resorte  |     $k$     |   $N7m$    |
+|Constante del resorte  |     $k$     |   $N/m$    |
 
 
 Tabla 1. Tabla de ejemplo

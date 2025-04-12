@@ -67,7 +67,7 @@ Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede div
 
 -Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
-## 4. Ejemplos
+## 4. Ejemplo
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
 
 ## 5. Ecuaciones

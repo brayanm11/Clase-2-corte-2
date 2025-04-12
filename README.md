@@ -93,8 +93,7 @@ Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga nu
 
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:
-
-💡**Ejemplo 3:** 
+ 
 
 |     **Parametro**     | **Simbolo** | **unidad** |
 |-----------------------|-------------|------------|
@@ -102,6 +101,7 @@ Para organizar información sobre parámetros de sistemas mecánicos:
 |    Amortiguamiento    |     $b$     |   $Ns/m$   |
 |Constante del resorte  |     $k$     |   $N/m$    |
 
+Tabla 1. Parámetros de un sistema mecánico.
 
 Tabla 1. Tabla de ejemplo
 

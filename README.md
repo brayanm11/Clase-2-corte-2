@@ -32,6 +32,18 @@ Para un sistema compuesto por una masa, un resorte y un amortiguador, la ecuaci�
 
 $$m\frac{d^{2}x}{dt^{2}}+b\frac{dx}{dt}+kx=F(t)$$
 
+Donde:
+
+$x$ es el desplazamiento,
+
+$m$ es la masa,
+
+$b$ es el coeficiente de amortiguamiento,
+
+$k$ es la constante del resorte,
+
+$F(t)$ es la fuerza aplicada.
+
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones

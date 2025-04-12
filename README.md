@@ -26,7 +26,7 @@ Resorte $(k)$: Modela la elasticidad del sistema según la Ley de Hooke.
 
 Amortiguador $(b)$: Simula la fricción y disipación de energía.
 
-2.1. Ecuación del Sistema Masa-Resorte-Amortiguador
+### 2.1. Ecuación del Sistema Masa-Resorte-Amortiguador
 
 Para un sistema compuesto por una masa, un resorte y un amortiguador, la ecuación diferencial se expresa como:
 
@@ -44,7 +44,7 @@ $k$ es la constante del resorte,
 
 $F(t)$ es la fuerza aplicada.
 
-2.2. Tipos de Sistemas Mecánicos
+### 2.2. Tipos de Sistemas Mecánicos
 
 -Existen distintos tipos de sistemas mecánicos según sus características dinámicas:
 
@@ -56,12 +56,16 @@ $F(t)$ es la fuerza aplicada.
 
 -Sistemas sobreamortiguados: Movimiento hacia el equilibrio sin oscilaciones, pero más lento que en el caso crítico.
 
-## 3. Subsecciones
-Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
-### 3.1. Título de subsecciones
-Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
-### 3.2. Numeración de subsecciones
-Siga la numeración de la sección seguida de un punto y luego el número de la subsección.
+## 3. Análisis de Respuesta de Sistemas Mecánicos
+El análisis de un sistema mecánico se basa en su respuesta al aplicar una fuerza externa. Las soluciones de la ecuación diferencial dependen de las condiciones iniciales y de la naturaleza de la fuerza aplicada.
+### 3.1. Movimiento Libre
+Si no hay una fuerza externa actuando sobre el sistema $(F(t)=o)$, la ecuación diferencial se resuelve considerando únicamente las condiciones iniciales.
+### 3.2. Movimiento Forzado
+Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede dividirse en:
+
+-Respuesta transitoria: Depende de las condiciones iniciales y desaparece con el tiempo.
+
+-Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
 ## 4. Ejemplos
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.

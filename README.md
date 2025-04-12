@@ -44,6 +44,18 @@ $k$ es la constante del resorte,
 
 $F(t)$ es la fuerza aplicada.
 
+2.2. Tipos de Sistemas Mecánicos
+
+-Existen distintos tipos de sistemas mecánicos según sus características dinámicas:
+
+-Sistemas sin amortiguamiento: Movimiento oscilatorio sin disipación de energía.
+
+-Sistemas subamortiguados: Oscilaciones con disipación progresiva de energía.
+
+-Sistemas críticamente amortiguados: Retorno a la posición de equilibrio sin oscilaciones.
+
+-Sistemas sobreamortiguados: Movimiento hacia el equilibrio sin oscilaciones, pero más lento que en el caso crítico.
+
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones

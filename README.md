@@ -68,6 +68,7 @@ Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede div
 -Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
 ## 4.💡 Ejemplo 1: Sistema Masa-Resorte-Amortiguador con Fuerza Externa
+![Ejemplo 2](images/plantilla/ejemplo_2.PNG)
 📌 Enunciado:
 Un sistema mecánico tiene:
 

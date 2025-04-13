@@ -81,7 +81,7 @@ Resorte $k=5N/m$
 
 Fuerza externa $F(t)=10cos(2t)$
 
-✏️ Ecuación diferencial:$(2𝑡)2 x¨+3 x˙+5x=10cos(2t)$
+✏️ Ecuación diferencial: $2x¨+3x˙+5x=10cos(2t)$
 
 ## 6. Figuras
 Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:

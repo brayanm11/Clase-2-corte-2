@@ -144,6 +144,20 @@ $$mg=T$$
 
 Sobre la polea actúa la tensión de la cuerda hacia abajo, dos veces, una por cada lado de la polea, y la fuerza elástica del muelle, hacia arriba. Si $L$ es la longitud del muelle en el estado de equilibrio, y $L$0 su longitud natural, la condición de equilibrio para la polea es:
 
+$$2t=k(L-L_{0})$$
+
+Con estas dos ecuaciones, se deduce que:
+
+$$L=L_{0}+2\frac{mg}{k}$$
+
+Una vez establecido el equilibrio, desplazamos la masa $m$ una distancia vertical y hacia abajo, dejándola en libertad. La ecuación de movimiento para la masa $m$ es:
+
+$$m\frac{d^{2}y}{dt^{2}}=-\grave{T}$$
+
+donde $\grave{T}$ es la tensión de la cuerda menos su valor en el equilibrio $T$. Fijándonos ahora en la polea vemos que si la masa se desplaza una distancia y hacia abajo, el muelle debe alargarse una distancia $y/2$ respecto de su posición de equilibrio. Como la polea no tiene masa, su ecuación de movimiento es
+
+
+
 
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:

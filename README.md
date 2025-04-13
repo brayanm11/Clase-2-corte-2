@@ -102,6 +102,7 @@ pretty(xSol)
 ```
 
 💡 Ejemplo 2: Sistema Masa-Resorte sin Amortiguador (Movimiento libre)
+![Ejemplo 2](ejemplo2.png)
 📌 Enunciado:
 El sistema tiene:
 

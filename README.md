@@ -200,7 +200,29 @@ $$\grave{T}=k(L-L_{0})$$
 
 De estas ecuaciones obtenemos la posición de equilibrio del muelle,
 
+$$k(L-L_{0})=\frac{T}{2}=\frac{mg}{2}$$
 
+$$L=L_{0}+\frac{mg}{2k}$$
+
+Desplazamos ahora la masa m una distancia y hacia abajo. La ecuación de su movimiento es:
+
+$$m\frac{d^{2}y}{dt^{2}}=-\ddot{T}$$
+
+donde $\ddot{T}$ es la tensión del hilo menos su valor en el equilibrio $T$. Fijándonos ahora en la polea vemos que si la masa se desplaza una distancia y hacia abajo, el muelle debe alargarse una distancia $2y$ respecto de su posición de equilibrio. Además, la cuerda y el muelle ejercen la misma fuerza, y como la polea no tiene masa, su ecuación de movimiento es:
+
+$$\ddot{T}=2k(2y)=4ky$$
+
+de donde deducimos que la masa $m$ realiza el movimiento:
+
+$$m\frac{d^{2}y}{dt^{2}}=-4ky$$
+
+que es un MAS,
+
+$$\frac{d^{2}y}{dt^{2}}=+\frac{k4}{m}y=0$$
+
+de frecuencia:
+
+$$\omega =2\sqrt{\frac{k}{m}}$$
 
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:

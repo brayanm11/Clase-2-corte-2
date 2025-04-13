@@ -139,9 +139,12 @@ pretty(xSol)
 Determinar la posición de equilibrio y la frecuencia angular del sistema de resorte, masa y polea mostrados. El resorte tiene una constante $k$, y la polea puede considerarse como desprovista de fricción y de masa despreciable.
 
 En el equilibrio, sobre la masa m actúa su peso hacia abajo, y la tensión de la cuerda hacia arriba. Por tanto, la condición de equilibrio para la masa $m$ es:
+
 $$mg=T$$
 
-Sobre la polea actúa la tensión de la cuerda hacia abajo, dos veces, una por cada lado de la polea, y la fuerza elástica del muelle, hacia arriba. Si $L$ es la longitud del muelle en el estado de equilibrio, y $L$0 su longitud natural, la condición de equilibrio para la polea es
+Sobre la polea actúa la tensión de la cuerda hacia abajo, dos veces, una por cada lado de la polea, y la fuerza elástica del muelle, hacia arriba. Si $L$ es la longitud del muelle en el estado de equilibrio, y $L$0 su longitud natural, la condición de equilibrio para la polea es:
+
+
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:
  

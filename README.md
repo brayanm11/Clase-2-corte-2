@@ -83,6 +83,21 @@ Fuerza externa $F(t)=10cos(2t)$
 
 ✏️ Ecuación diferencial: $2x¨+3x˙+5x=10cos(2t)$
 
+🧮 Código en MATLAB:
+
+```
+m = 2; b = 3; k = 5;
+syms x(t)
+Dx = diff(x, t);
+D2x = diff(Dx, t);
+F = 10*cos(2*t);
+
+eq = m*D2x + b*Dx + k*x == F;
+xSol = dsolve(eq)
+
+disp('Solución del sistema:')
+pretty(xSol)
+```
 ## 6. Figuras
 Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
 * Primero escribimos ![]().

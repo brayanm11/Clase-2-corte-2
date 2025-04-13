@@ -67,9 +67,21 @@ Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede div
 
 -Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
-## 4. Ejemplo
-Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
+## 4.💡 Ejemplo 1: Sistema Masa-Resorte-Amortiguador con Fuerza Externa
+📌 Enunciado:
+Un sistema mecánico tiene:
 
+Masa $𝑚=2$
+
+kg $m=2kg$
+
+Amortiguador $𝑏=3Ns/m$
+
+Resorte $k=5N/m$
+
+Fuerza externa $F(t)=10cos(2t)$
+
+✏️ Ecuación diferencial:$(2𝑡)2 x¨+3 x˙+5x=10cos(2t)$
 
 ## 6. Figuras
 Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:

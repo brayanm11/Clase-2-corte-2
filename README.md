@@ -142,6 +142,8 @@ pretty(xSol)
 ### Ejercicio 1
 Determinar la posición de equilibrio y la frecuencia angular del sistema de resorte, masa y polea mostrados. El resorte tiene una constante $k$, y la polea puede considerarse como desprovista de fricción y de masa despreciable.
 
+![Ejercicio 1](ejercicio1clase.png)
+
 En el equilibrio, sobre la masa m actúa su peso hacia abajo, y la tensión de la cuerda hacia arriba. Por tanto, la condición de equilibrio para la masa $m$ es:
 
 $$mg=T$$
@@ -181,6 +183,8 @@ $$m\frac{d^{2}t}{dt^{2}}=-k\frac{y}{4}$$
  ### Ejercicio 2
 
 Determinar la posición de equilibrio y la frecuencia angular del sistema de masa única mostrado. La masa de la polea es despreciable.
+
+![Ejercicio 2](ejercicio2clase.png)
 
 
 

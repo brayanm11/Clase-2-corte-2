@@ -68,7 +68,7 @@ Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede div
 -Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
 ## 4.💡 Ejemplo 1: Sistema Masa-Resorte-Amortiguador con Fuerza Externa
-![Ejemplo 1](images/plantilla/ejemplo1.PNG)
+![Ejemplo 1](images/plantilla/ejemplo1.png)
 
 📌 Enunciado:
 Un sistema mecánico tiene:
@@ -134,20 +134,14 @@ xSol = dsolve(eq)
 disp('Solución del sistema libre:')
 pretty(xSol)
 ```
-## 6. Figuras
-Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
-* Primero escribimos ![]().
-* Después escribimos, dentro de los corchetes, el texto alternativo. Este es opcional y solo entra en acción cuando no se puede cargar la imagen correctamente.
-* Después escribimos, dentro de los paréntesis, la ubicación del archivo (ya sea una url o una ubicación dentro de algun folder local). Se recomienda poner las imágenes en una carpeta que se llame imágenes dentro del repositorio github para que no tengan problemas al cargar las imágenes.
+## 6. Ejecicios 
+### Ejercicio 1
+Determinar la posición de equilibrio y la frecuencia angular del sistema de resorte, masa y polea mostrados. El resorte tiene una constante $k$, y la polea puede considerarse como desprovista de fricción y de masa despreciable.
 
-💡**Ejemplo 2:**
+En el equilibrio, sobre la masa m actúa su peso hacia abajo, y la tensión de la cuerda hacia arriba. Por tanto, la condición de equilibrio para la masa $m$ es:
+$$mg=T$$
 
-![Figura de prueba](images/plantilla/Captura2.PNG)
-
-Figura 1. Figura de prueba
-
-Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
-
+Sobre la polea actúa la tensión de la cuerda hacia abajo, dos veces, una por cada lado de la polea, y la fuerza elástica del muelle, hacia arriba. Si $L$ es la longitud del muelle en el estado de equilibrio, y $L$0 su longitud natural, la condición de equilibrio para la polea es
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:
  

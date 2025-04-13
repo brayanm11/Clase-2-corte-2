@@ -201,18 +201,7 @@ Para organizar información sobre parámetros de sistemas mecánicos:
 Tabla 1. Parámetros de un sistema mecánico.
 
 
-
-## 8. Código
-Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:
-
-💡**Ejemplo 4:**
-```
-var sumar2 = function(numero) {
-  return numero + 2;
-}
-```
-
-## 9. Conclusiones
+## 8. Conclusiones
 
 -El análisis de sistemas mecánicos permite comprender su dinámica y respuesta a fuerzas externas.
 
@@ -220,7 +209,7 @@ var sumar2 = function(numero) {
 
 -MATLAB y la transformada de Laplace facilitan la resolución de estos sistemas.
 
-## 10. Referencias
+## 9. Referencias
 
 -Ogata, K. (1987). Dinámica de sistemas. Prentice Hall.
 

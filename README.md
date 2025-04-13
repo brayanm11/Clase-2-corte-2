@@ -154,9 +154,25 @@ Una vez establecido el equilibrio, desplazamos la masa $m$ una distancia vertica
 
 $$m\frac{d^{2}y}{dt^{2}}=-\grave{T}$$
 
-donde $\grave{T}$ es la tensión de la cuerda menos su valor en el equilibrio $T$. Fijándonos ahora en la polea vemos que si la masa se desplaza una distancia y hacia abajo, el muelle debe alargarse una distancia $y/2$ respecto de su posición de equilibrio. Como la polea no tiene masa, su ecuación de movimiento es
+donde $\grave{T}$ es la tensión de la cuerda menos su valor en el equilibrio $T$. Fijándonos ahora en la polea vemos que si la masa se desplaza una distancia y hacia abajo, el muelle debe alargarse una distancia $y/2$ respecto de su posición de equilibrio. Como la polea no tiene masa, su ecuación de movimiento es:
 
+$$2\grave{T}=k\frac{y}{2}$$
 
+de donde obtenemos
+
+$$\grave{T}=k\frac{y}{4}$$
+
+con lo cual, la masa $m$ realiza el movimiento:
+
+$$m\frac{d^{2}t}{dt^{2}}=-k\frac{y}{4}$$
+
+ que es un MAS,
+
+ $$\frac{d^{2}t}{dt^{2}}+\frac{k}{4m}y=0$$
+
+ de frecuencia:
+
+ $$\omega =\sqrt{\frac{k}{4m}}$$
 
 
 ## 7. Tablas

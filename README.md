@@ -98,6 +98,40 @@ xSol = dsolve(eq)
 disp('Solución del sistema:')
 pretty(xSol)
 ```
+
+💡 Ejemplo 2: Sistema Masa-Resorte sin Amortiguador (Movimiento libre)
+📌 Enunciado:
+El sistema tiene:
+
+Masa $m=1.5kg$
+
+Constante del resorte $k=4N/m$
+
+Sin amortiguador ni fuerza externa
+
+✏️ Ecuación diferencial:
+$$\ddot{x}+\frac{4}{1.5}x=0\to \ddot{x}+2.67x=0$$
+
+🧠 Frecuencia natural:
+$$Wn=\sqrt{\frac{k}{m}}=\sqrt{\frac{4}{1.5}}=1.63 rad/s$$
+
+📌 Solución general:
+$$x(t)=C1cos(1.63t)+C2sin(1.63t)$$
+
+🧮 Código en MATLAB:
+
+```
+m = 1.5; k = 4;
+syms x(t)
+Dx = diff(x, t);
+D2x = diff(Dx, t);
+
+eq = m*D2x + k*x == 0;
+xSol = dsolve(eq)
+
+disp('Solución del sistema libre:')
+pretty(xSol)
+```
 ## 6. Figuras
 Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
 * Primero escribimos ![]().

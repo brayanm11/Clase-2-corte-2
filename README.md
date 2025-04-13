@@ -68,7 +68,7 @@ Si el sistema está sometido a una fuerza externa $F(t)$, su respuesta puede div
 -Respuesta en estado estable: Es la parte de la solución que permanece en el tiempo.
 
 ## 4.💡 Ejemplo 1: Sistema Masa-Resorte-Amortiguador con Fuerza Externa
-![Ejemplo 1](images/plantilla/ejemplo1.png)
+![Ejemplo 1](images/ejemplo1.png)
 
 📌 Enunciado:
 Un sistema mecánico tiene:
@@ -174,6 +174,11 @@ $$m\frac{d^{2}t}{dt^{2}}=-k\frac{y}{4}$$
 
  $$\omega =\sqrt{\frac{k}{4m}}$$
 
+ ### Ejercicio 2
+
+Determinar la posición de equilibrio y la frecuencia angular del sistema de masa única mostrado. La masa de la polea es despreciable.
+
+
 
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:
@@ -199,7 +204,7 @@ var sumar2 = function(numero) {
 }
 ```
 
-## 10. Conclusiones
+## 9. Conclusiones
 
 -El análisis de sistemas mecánicos permite comprender su dinámica y respuesta a fuerzas externas.
 
@@ -207,10 +212,12 @@ var sumar2 = function(numero) {
 
 -MATLAB y la transformada de Laplace facilitan la resolución de estos sistemas.
 
-## 11. Referencias
+## 10. Referencias
 
 -Ogata, K. (1987). Dinámica de sistemas. Prentice Hall.
 
 -Chen, C. (1993). Analog and Digital Control System Design. Saunders College Publishing.
+
+-https://www.dfmf.uned.es/~aperea/material_docente/MyO/tema5_2.pdf
 
 -MATLAB Documentation: mathworks.com

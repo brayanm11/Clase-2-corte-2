@@ -190,11 +190,17 @@ En el equilibrio, sobre la masa $m$ actúa su peso y la tensión del hilo. De aq
 
 $$mg=T$$
 
-Sobre la polea actúa en la parte izquierda y hacia arriba una tensión \grave{T}, en la parte derecha, también hacia arriba, la fuerza elástica del muelle, y hacia abajo la tensión del hilo. Por tanto, la condición de equilibrio para la polea es:
+Sobre la polea actúa en la parte izquierda y hacia arriba una tensión $\grave{T}$, en la parte derecha, también hacia arriba, la fuerza elástica del muelle, y hacia abajo la tensión del hilo. Por tanto, la condición de equilibrio para la polea es:
 
 $$\grave{T}+k(L-L_{0})=T$$
 
-Como además, la cuerda unida al muelle en la parte superior es inextensible, la tensión \grave{T} debe ser igual a la fuerza elástica:
+Como además, la cuerda unida al muelle en la parte superior es inextensible, la tensión $\grave{T}$ debe ser igual a la fuerza elástica:
+
+$$\grave{T}=k(L-L_{0})$$
+
+De estas ecuaciones obtenemos la posición de equilibrio del muelle,
+
+
 
 ## 7. Tablas
 Para organizar información sobre parámetros de sistemas mecánicos:
